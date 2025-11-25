@@ -6,7 +6,7 @@
 
 ### Olá, meu nome é Matheus Rezende!
 
-#### Trabalhando na Cocal como Cientista de Dados
+#### Trabalhando na Labrynth como Software Engineer
 <br/>
 
 <li>Data Science
